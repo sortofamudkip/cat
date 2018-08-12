@@ -1,6 +1,8 @@
 # cat
 Processes data from Reddit's greatest social phenomena, /r/catsstandingup.
 
+Specifically, it finds the upvote percentage and distribution of votes of comments in the sub.
+
 ## Prerequisites
 
 You need the following modules:
@@ -46,4 +48,4 @@ You should know `username`, `password`, `client_id`, `client_secret`, and `user_
 * self-explanatory.
 
 `print_stats(self)`
-* prints the `stas` dictionary.
+* prints the `stats` dictionary.
