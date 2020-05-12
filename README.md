@@ -1,7 +1,7 @@
 # cat
 Processes data from Reddit's greatest social phenomena, /r/catsstandingup.
 
-Specifically, it finds the upvote percentage and distribution of votes of comments in the sub.
+Catsstandingup is a subreddit (forum) where you are only allowed to type "Cat."; thus the upvotes of each comment should be expected to be uniform; however, this is not the case. This small project collects the upvote percentage/distribution of votes of comments in that sub using Reddit's API, `praw`. 
 
 ## Prerequisites
 
